@@ -55,9 +55,9 @@ Untuk memahami proyek ini secara bertahap, disarankan membaca berkas dokumen di 
    📄 [docs/game-design/kartu-draft.md](docs/game-design/kartu-draft.md)  
    *49 kartu bilingual lengkap dengan identifier teknis engine: 9 Berita Ekonomi RNG, 20 Dana Umum (Community Chest), dan 20 Kesempatan (Chance).*
 
-5. **Langkah 5 — Aturan Eksekusi untuk Tim Pengembang & Bisnis:**  
+5. **Langkah 5 — Aturan Eksekusi Tim Multidisiplin & Manajemen:**  
    📄 [docs/ATURAN-PENGEMBANGAN.md](docs/ATURAN-PENGEMBANGAN.md)  
-   *Panduan arsitektur modular untuk Developer (Unity/Roblox/Qt), kontrol data & telemetri untuk Analyst, dan strategi peluncuran serta viralitas untuk Marketing.*
+   *Panduan operasional lengkap untuk 7 divisi: Developer (arsitektur modular), Analyst (telemetri & SSOT), Sound Engineer (BGM lofi dinamis & SFX taktil), Artist & UI/UX (3D stylized & aksesibilitas buta warna), Level Designer (diorama kota 3D & sinematografi kamera), Marketing (klip viral TikTok & etika F2P), serta Producer/Boss (kontrol batas fitur/scope & pintu gerbang kualitas rilis).*
 
 </details>
 
@@ -109,9 +109,9 @@ To explore the architecture and game design logically, navigate through the `doc
    📄 [docs/game-design/kartu-draft.md](docs/game-design/kartu-draft.md)  
    *Complete 49 bilingual card deck with technical logic identifiers: 9 World News Events, 20 Community Chest cards, and 20 Chance cards.*
 
-5. **Step 5 — Engineering, Analytics & Go-To-Market Standards:**  
+5. **Step 5 — Multidisciplinary Studio & Leadership Guidelines:**  
    📄 [docs/ATURAN-PENGEMBANGAN.md](docs/ATURAN-PENGEMBANGAN.md)  
-   *Modular engine guidelines for Developers (Unity/Roblox/Qt), telemetry telemetry gates for Analysts, and viral clipping / zero pay-to-win strategies for Marketing.*
+   *Comprehensive operational standards across 7 roles: Developer (modular architecture), Analyst (telemetry & SSOT), Sound Engineer (dynamic lofi BGM & tactile SFX), Artist & UI/UX (stylized 3D & colorblind accessibility), Level Designer (3D diorama board & dynamic camera), Marketing (viral TikTok clipping & ethical F2P), and Producer/Boss (scope gatekeeping & release quality gates).*
 
 </details>
 
